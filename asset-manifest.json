@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d501645c.css",
+    "main.js": "/static/js/main.7b60ccf9.js",
+    "static/media/Yura Yunita - Duhai Sayang.mp3": "/static/media/Yura Yunita - Duhai Sayang.0d9c4c8ae799977dd573.mp3",
+    "static/media/9 digital.jpg": "/static/media/9 digital.07cde4d6d4b5682aa5cd.jpg",
+    "static/media/13 digital.jpg": "/static/media/13 digital.b8b0f852e47247e0146b.jpg",
+    "static/media/3 digital.jpg": "/static/media/3 digital.27678c0bba858fb840c5.jpg",
+    "static/media/flwer.png": "/static/media/flwer.64f96a2039c5f8ca6817.png",
+    "static/media/8 digtial.jpg": "/static/media/8 digtial.e86299a9fec676b33a02.jpg",
+    "static/media/11 digital.jpg": "/static/media/11 digital.2119ba4431936edea883.jpg",
+    "static/media/4 digital.jpg": "/static/media/4 digital.1760adbbcc4f46129835.jpg",
+    "static/media/2 digital.jpg": "/static/media/2 digital.e6023ff3557f19facd47.jpg",
+    "static/media/10 digital.jpg": "/static/media/10 digital.56d5ac478babdc8f3941.jpg",
+    "static/media/12 digital.jpg": "/static/media/12 digital.6b9238f98af32d26280a.jpg",
+    "static/media/1 digital.jpg": "/static/media/1 digital.aeff21a150310ec1a3d8.jpg",
+    "static/media/5 digital.jpg": "/static/media/5 digital.4f59f05e58872a92c5b1.jpg",
+    "static/media/ovo.png": "/static/media/ovo.2ebf47f1bdcef6f070e0.png",
+    "static/media/woman.jpeg": "/static/media/woman.80664b4f5830887e247c.jpeg",
+    "static/media/6 digital.jpg": "/static/media/6 digital.38578e38a4ff30a2cea6.jpg",
+    "static/media/man.jpeg": "/static/media/man.2d6a10d57c15ab8b9556.jpeg",
+    "static/media/gopay.png": "/static/media/gopay.75d4772ab87abed1257e.png",
+    "static/media/dana.png": "/static/media/dana.1377687c0e1894bbcd5f.png",
+    "static/media/J&Y logo black.png": "/static/media/J&Y logo black.021fd19cf2ee82c7dea2.png",
+    "index.html": "/index.html",
+    "main.d501645c.css.map": "/static/css/main.d501645c.css.map",
+    "main.7b60ccf9.js.map": "/static/js/main.7b60ccf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d501645c.css",
+    "static/js/main.7b60ccf9.js"
+  ]
+}
