@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/JnY/static/css/main.d501645c.css",
-    "main.js": "/JnY/static/js/main.e4d5eae2.js",
+    "main.css": "/JnY/static/css/main.196ca341.css",
+    "main.js": "/JnY/static/js/main.4236051d.js",
     "static/media/Yura Yunita - Duhai Sayang.mp3": "/JnY/static/media/Yura Yunita - Duhai Sayang.0d9c4c8ae799977dd573.mp3",
     "static/media/9 digital.jpg": "/JnY/static/media/9 digital.07cde4d6d4b5682aa5cd.jpg",
     "static/media/13 digital.jpg": "/JnY/static/media/13 digital.b8b0f852e47247e0146b.jpg",
@@ -23,11 +23,11 @@
     "static/media/dana.png": "/JnY/static/media/dana.1377687c0e1894bbcd5f.png",
     "static/media/J&Y logo black.png": "/JnY/static/media/J&Y logo black.021fd19cf2ee82c7dea2.png",
     "index.html": "/JnY/index.html",
-    "main.d501645c.css.map": "/JnY/static/css/main.d501645c.css.map",
-    "main.e4d5eae2.js.map": "/JnY/static/js/main.e4d5eae2.js.map"
+    "main.196ca341.css.map": "/JnY/static/css/main.196ca341.css.map",
+    "main.4236051d.js.map": "/JnY/static/js/main.4236051d.js.map"
   },
   "entrypoints": [
-    "static/css/main.d501645c.css",
-    "static/js/main.e4d5eae2.js"
+    "static/css/main.196ca341.css",
+    "static/js/main.4236051d.js"
   ]
 }
