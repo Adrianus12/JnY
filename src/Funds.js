@@ -22,7 +22,8 @@ const Funds = () => {
                         <td><a href=""><img src={dana} alt="" /></a></td>  
                     </tr>                    
                 </table> */}
-                <h3>no rek................ a/n Joshua</h3>
+                <h3>BCA: 4310384904 a/n Joshua</h3>
+                <h3>BCA: 2801517040 a/n Yosiana</h3>
                 <h1>Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/ibu/saudara/i berkenan hadir untuk memberikan doa restu bagi kedua mempelai pada syukuran ngunduh mantu.</h1>
             </div>
         </div>

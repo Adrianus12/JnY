@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useRef } from "react";
-import bgm from "./wed-assets/Yura Yunita - Duhai Sayang.mp3";
+import bgm from "./wed-assets/Yura Yunita - Duhai Sayang.ogg";
+import bgm2 from "./wed-assets/Yura Yunita - Duhai Sayang.mp3";
 
 const BackgroundMusic = () => {
 
@@ -20,7 +21,7 @@ const BackgroundMusic = () => {
         if (!audioRef.current) return;
 
         audioRef.current.defaultMuted = true;
-        audioRef.current.src=bgm;
+        
         
         const clickPlayAudioListener = () => {
             if (audioRef.current.paused) {
@@ -42,7 +43,10 @@ const BackgroundMusic = () => {
     return (
 
         <>
-            <audio ref={audioRef} autoPlay loop muted className="bgm-audio" />
+            <audio ref={audioRef} controls autoPlay loop muted className="bgm-audio">
+                <source src={bgm2} type="audio/mp3"/>
+                <source src={bgm} type="audio/ogg"/>
+            </audio>
             <button className={`bgm-button-mute ${played ? "visible" : "hidden"}`} onClick={handleMuteAudio}>
                 {muted ? <MuteIcon /> : <UnmuteIcon />}
             </button>

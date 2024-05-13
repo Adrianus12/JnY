@@ -133,18 +133,14 @@ img.Home-bg{
 @media (max-width: 915px) {
   img.Home-bg {
     height:600px;
-    width: auto;
-    /* object-position: center;
-    object-fit: cover; */
+    object-position: center;
+    object-fit: cover;
   }
   .imgWrap { 
     overflow: hidden;
   }
 }
 @media (max-width: 540px) {
-  img.Home-bg {
-    left:-50%;
-  }
   .imgWrap { 
     overflow: hidden;
   }
